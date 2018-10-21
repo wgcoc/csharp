@@ -1,0 +1,5 @@
+D:\onWork\visualC#\ServerConsole\ServerConsole\bin\Debug\ServerConsole.exe
+D:\onWork\visualC#\ServerConsole\ServerConsole\bin\Debug\ServerConsole.pdb
+D:\onWork\visualC#\ServerConsole\ServerConsole\obj\Debug\ResolveAssemblyReference.cache
+D:\onWork\visualC#\ServerConsole\ServerConsole\obj\Debug\ServerConsole.exe
+D:\onWork\visualC#\ServerConsole\ServerConsole\obj\Debug\ServerConsole.pdb

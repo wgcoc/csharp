@@ -1,0 +1,5 @@
+D:\onWork\visualC#\ShowCode\english_showCode\english_showCode\bin\Debug\english_showCode.exe
+D:\onWork\visualC#\ShowCode\english_showCode\english_showCode\bin\Debug\english_showCode.pdb
+D:\onWork\visualC#\ShowCode\english_showCode\english_showCode\obj\Debug\ResolveAssemblyReference.cache
+D:\onWork\visualC#\ShowCode\english_showCode\english_showCode\obj\Debug\english_showCode.exe
+D:\onWork\visualC#\ShowCode\english_showCode\english_showCode\obj\Debug\english_showCode.pdb

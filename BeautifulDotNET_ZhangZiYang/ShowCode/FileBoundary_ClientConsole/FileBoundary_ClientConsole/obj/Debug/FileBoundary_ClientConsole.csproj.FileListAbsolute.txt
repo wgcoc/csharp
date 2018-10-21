@@ -1,0 +1,5 @@
+D:\onWork\visualC#\ShowCode\FileBoundary_ClientConsole\FileBoundary_ClientConsole\bin\Debug\FileBoundary_ClientConsole.exe
+D:\onWork\visualC#\ShowCode\FileBoundary_ClientConsole\FileBoundary_ClientConsole\bin\Debug\FileBoundary_ClientConsole.pdb
+D:\onWork\visualC#\ShowCode\FileBoundary_ClientConsole\FileBoundary_ClientConsole\obj\Debug\ResolveAssemblyReference.cache
+D:\onWork\visualC#\ShowCode\FileBoundary_ClientConsole\FileBoundary_ClientConsole\obj\Debug\FileBoundary_ClientConsole.exe
+D:\onWork\visualC#\ShowCode\FileBoundary_ClientConsole\FileBoundary_ClientConsole\obj\Debug\FileBoundary_ClientConsole.pdb

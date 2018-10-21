@@ -1,0 +1,5 @@
+D:\onWork\visualC#\ShowCode\metadata_Console\metadata_Console\bin\Debug\metadata_Console.exe
+D:\onWork\visualC#\ShowCode\metadata_Console\metadata_Console\bin\Debug\metadata_Console.pdb
+D:\onWork\visualC#\ShowCode\metadata_Console\metadata_Console\obj\Debug\ResolveAssemblyReference.cache
+D:\onWork\visualC#\ShowCode\metadata_Console\metadata_Console\obj\Debug\metadata_Console.exe
+D:\onWork\visualC#\ShowCode\metadata_Console\metadata_Console\obj\Debug\metadata_Console.pdb

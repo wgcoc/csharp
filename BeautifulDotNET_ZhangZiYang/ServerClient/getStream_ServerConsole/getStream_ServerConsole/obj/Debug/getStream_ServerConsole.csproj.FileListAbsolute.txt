@@ -1,0 +1,10 @@
+D:\onWork\visualC#\getStream_ServerConsole\getStream_ServerConsole\obj\Debug\ResolveAssemblyReference.cache
+D:\onWork\visualC#\getStream_ServerConsole\getStream_ServerConsole\bin\Debug\getStream_ServerConsole.exe
+D:\onWork\visualC#\getStream_ServerConsole\getStream_ServerConsole\bin\Debug\getStream_ServerConsole.pdb
+D:\onWork\visualC#\getStream_ServerConsole\getStream_ServerConsole\obj\Debug\getStream_ServerConsole.exe
+D:\onWork\visualC#\getStream_ServerConsole\getStream_ServerConsole\obj\Debug\getStream_ServerConsole.pdb
+D:\onWork\visualC#\ServerClient\getStream_ServerConsole\getStream_ServerConsole\obj\Debug\getStream_ServerConsole.exe
+D:\onWork\visualC#\ServerClient\getStream_ServerConsole\getStream_ServerConsole\obj\Debug\getStream_ServerConsole.pdb
+D:\onWork\visualC#\ServerClient\getStream_ServerConsole\getStream_ServerConsole\bin\Debug\getStream_ServerConsole.exe
+D:\onWork\visualC#\ServerClient\getStream_ServerConsole\getStream_ServerConsole\bin\Debug\getStream_ServerConsole.pdb
+D:\onWork\visualC#\ServerClient\getStream_ServerConsole\getStream_ServerConsole\obj\Debug\ResolveAssemblyReference.cache

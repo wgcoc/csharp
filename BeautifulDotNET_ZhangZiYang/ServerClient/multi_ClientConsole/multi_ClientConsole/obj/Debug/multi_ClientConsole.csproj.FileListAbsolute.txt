@@ -1,0 +1,5 @@
+D:\onWork\visualC#\multi_ClientConsole\multi_ClientConsole\bin\Debug\multi_ClientConsole.exe
+D:\onWork\visualC#\multi_ClientConsole\multi_ClientConsole\bin\Debug\multi_ClientConsole.pdb
+D:\onWork\visualC#\multi_ClientConsole\multi_ClientConsole\obj\Debug\ResolveAssemblyReference.cache
+D:\onWork\visualC#\multi_ClientConsole\multi_ClientConsole\obj\Debug\multi_ClientConsole.exe
+D:\onWork\visualC#\multi_ClientConsole\multi_ClientConsole\obj\Debug\multi_ClientConsole.pdb

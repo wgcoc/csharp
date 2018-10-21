@@ -1,0 +1,5 @@
+D:\onWork\visualC#\muli_AcceptTcp_ServerConsole\muli_AcceptTcp_ServerConsole\obj\Debug\ResolveAssemblyReference.cache
+D:\onWork\visualC#\muli_AcceptTcp_ServerConsole\muli_AcceptTcp_ServerConsole\bin\Debug\muli_AcceptTcp_ServerConsole.exe
+D:\onWork\visualC#\muli_AcceptTcp_ServerConsole\muli_AcceptTcp_ServerConsole\bin\Debug\muli_AcceptTcp_ServerConsole.pdb
+D:\onWork\visualC#\muli_AcceptTcp_ServerConsole\muli_AcceptTcp_ServerConsole\obj\Debug\muli_AcceptTcp_ServerConsole.exe
+D:\onWork\visualC#\muli_AcceptTcp_ServerConsole\muli_AcceptTcp_ServerConsole\obj\Debug\muli_AcceptTcp_ServerConsole.pdb

@@ -1,0 +1,5 @@
+D:\onWork\visualC#\ClientConsole\ClientConsole\bin\Debug\ClientConsole.exe
+D:\onWork\visualC#\ClientConsole\ClientConsole\bin\Debug\ClientConsole.pdb
+D:\onWork\visualC#\ClientConsole\ClientConsole\obj\Debug\ResolveAssemblyReference.cache
+D:\onWork\visualC#\ClientConsole\ClientConsole\obj\Debug\ClientConsole.exe
+D:\onWork\visualC#\ClientConsole\ClientConsole\obj\Debug\ClientConsole.pdb

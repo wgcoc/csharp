@@ -1,0 +1,5 @@
+D:\onWork\visualC#\AcceptTcp_ServerConsole\AcceptTcp_ServerConsole\bin\Debug\AcceptTcp_ServerConsole.exe
+D:\onWork\visualC#\AcceptTcp_ServerConsole\AcceptTcp_ServerConsole\bin\Debug\AcceptTcp_ServerConsole.pdb
+D:\onWork\visualC#\AcceptTcp_ServerConsole\AcceptTcp_ServerConsole\obj\Debug\ResolveAssemblyReference.cache
+D:\onWork\visualC#\AcceptTcp_ServerConsole\AcceptTcp_ServerConsole\obj\Debug\AcceptTcp_ServerConsole.exe
+D:\onWork\visualC#\AcceptTcp_ServerConsole\AcceptTcp_ServerConsole\obj\Debug\AcceptTcp_ServerConsole.pdb

@@ -1,0 +1,5 @@
+D:\onWork\visualC#\getStream_ClientConsole\getStream_ClientConsole\bin\Debug\getStream_ClientConsole.exe
+D:\onWork\visualC#\getStream_ClientConsole\getStream_ClientConsole\bin\Debug\getStream_ClientConsole.pdb
+D:\onWork\visualC#\getStream_ClientConsole\getStream_ClientConsole\obj\Debug\ResolveAssemblyReference.cache
+D:\onWork\visualC#\getStream_ClientConsole\getStream_ClientConsole\obj\Debug\getStream_ClientConsole.exe
+D:\onWork\visualC#\getStream_ClientConsole\getStream_ClientConsole\obj\Debug\getStream_ClientConsole.pdb
